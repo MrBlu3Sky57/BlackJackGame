@@ -3,9 +3,6 @@
     players to play. It follows standard BlackJack rules. 
 */
 
-// TO DO: add intro message displaying game rules.
-// TO DO: ask rob about the documentation for methods
-
 package BlackJack;
 
 import java.util.ArrayList;
