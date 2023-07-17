@@ -8,8 +8,6 @@
     Date Programmed: January 21 2023
  */ 
 
- // TO DO: ask rob about the documentation for methods
-
 package BlackJack;
 
 import java.util.ArrayList;
