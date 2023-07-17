@@ -4,7 +4,7 @@
     offers multiple methods involved in the manipulation of a player's hand 
     and status in BlackJack such as hit or stand.
 
-    Completely Programmed by Aaron Avram
+    Programmed by Aaron Avram
     Date Programmed: January 21 2023
 */ 
 
